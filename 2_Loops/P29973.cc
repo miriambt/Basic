@@ -18,8 +18,8 @@ int main () {
     	
     	int c = 1;
     	while (c <= b) {
-    	cout << "*";
-    	++c;
+            cout << "*";
+            ++c;
         }
 
     cout << endl;
